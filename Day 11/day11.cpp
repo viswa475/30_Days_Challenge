@@ -6,7 +6,6 @@ using namespace std;
 int main() {
     int num; cin >> num;
     int counter = 0, maxCounter = 0;
-    
     while (num)
     {
         const auto rem = num % 2;        
