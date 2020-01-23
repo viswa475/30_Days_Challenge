@@ -3,7 +3,6 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
-
 int main() {
     int num; cin >> num;
     int counter = 0, maxCounter = 0;
